@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Elixir using Enum.reduce. The function provided to Enum.reduce does not handle all possible cases, leading to unexpected behavior or a crash if a value is not handled properly. The solution provides a corrected version that covers all possible cases.  This is a common mistake for beginners and experienced Elixir developers alike.
